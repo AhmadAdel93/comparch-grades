@@ -4,7 +4,7 @@
 |  1 | Aya Aboud Felfel Hassan                       |      |
 |  2 | Ebtehal Elaraby Elsayed Abdelhameed           |      |
 |  3 | Ahmed Hamad Ibraim Youssef Elhawary           |      |
-|  4 | Ahmed Adel Abdelfatah Mohamed Bassyoni        |      |
+|  4 | Ahmed Adel Abdelfatah Mohamed Bassyoni        |  Yes |
 |  5 | Ahmed Abdelwahed Mohamed Abdelwahed           |  Yes |
 |  6 | Ahmed Mohamed Hussien Mostafa                 |      |
 |  7 | Ahmed Mohamed Aly Hassan Aboemerea            |      |
